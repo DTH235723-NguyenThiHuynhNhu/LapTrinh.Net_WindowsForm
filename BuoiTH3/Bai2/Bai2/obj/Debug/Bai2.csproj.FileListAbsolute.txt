@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai2\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai2\Bai2\bin\Debug\Bai2.exe
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai2\Bai2\bin\Debug\Bai2.pdb
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai2\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai2\Bai2\obj\Debug\Bai2.Form1.resources
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai2\Bai2\obj\Debug\Bai2.Form2.resources
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai2\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai2\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai2\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai2\Bai2\obj\Debug\Bai2.exe
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai2\Bai2\obj\Debug\Bai2.pdb

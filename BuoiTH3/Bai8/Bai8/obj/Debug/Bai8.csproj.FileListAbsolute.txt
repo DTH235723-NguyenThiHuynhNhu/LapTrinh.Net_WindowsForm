@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai8\Bai8\bin\Debug\Bai8.exe.config
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai8\Bai8\bin\Debug\Bai8.exe
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai8\Bai8\bin\Debug\Bai8.pdb
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai8\Bai8\obj\Debug\Bai8.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai8\Bai8\obj\Debug\Bai8.Form1.resources
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai8\Bai8\obj\Debug\Bai8.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai8\Bai8\obj\Debug\Bai8.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai8\Bai8\obj\Debug\Bai8.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai8\Bai8\obj\Debug\Bai8.exe
+C:\Users\ADMIN\Downloads\laptrinhNet\BuoiTH3\Bai8\Bai8\obj\Debug\Bai8.pdb
